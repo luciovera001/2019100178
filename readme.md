@@ -17,7 +17,7 @@ Pasos para configurar el entorno:
 En primer lugar, clonar este repositorio en el espacio de trabajo de ROS. Abrir la terminal y ejecutar:
 
 ```bash
-//El nombre del paquete puede ser distinto al de este eaxmen
+//El nombre del workspace puede ser distinto al de este eaxmen
 cd Lucio Vera/src
 git clone https://github.com/luciovera001/2019100178.git
 cd ..
